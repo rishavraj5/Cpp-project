@@ -1,0 +1,8 @@
+frmMain = -2, 99, 801, 543, C, 0, 0, 0, 0, C
+modSwe = -1, 72, 804, 569, C
+modFunc = -5, 102, 794, 569, C
+modHpFunc = -2, 75, 798, 545, C
+modGlobal = 2, 77, 802, 541, C
+frmSettings = -6, 76, 806, 537, C, 0, 0, 0, 0, C
+frmAbout = -2, 74, 802, 542, CZ, 0, 0, 0, 0, C
+clsPDFCreator = 0, 74, 799, 541, C
